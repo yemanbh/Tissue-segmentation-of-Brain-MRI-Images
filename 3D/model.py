@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Dec  8 09:21:41 2017
 
-@author: yb
-"""
 import numpy as np
 from keras import backend as K
 from keras.engine import Input, Model
