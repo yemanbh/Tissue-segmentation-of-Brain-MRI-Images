@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Dec 28 00:07:41 2017
-
-@author: Vu Hoang Minh
-"""
-
 # image shape
 VOLUME_ROWS = 256
 VOLUME_COLS = 128
