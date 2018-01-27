@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Dec 28 00:07:41 2017
-
-@author: Vu Hoang Minh
-"""
 
 from __future__ import print_function
 
