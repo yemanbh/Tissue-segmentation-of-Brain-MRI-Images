@@ -41,3 +41,9 @@ The code has been tested with the following configuration
 ## How to run 
 * Run data_handling_2d_patch.py file to create training and validation .npy files (same holds for 3D)
 * Run train_main_2d_patch.py to train your CNN.  (same holds for 3D)
+
+## Results
+![](result.PNG "Metric Evaluation")
+
+## More detail about the project can be found in report.pdf file.
+
