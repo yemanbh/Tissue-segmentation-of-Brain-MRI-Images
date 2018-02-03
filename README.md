@@ -13,7 +13,7 @@ in medical image segmentation, and we have used both 2D and 3D versions. The per
 evaluated using Dice Coefficient (DSC), Hausdorff Distance (HD) and Average Volumetric Difference
 (AVD).
 
-## ReQuirements
+## Requirements
 ### Folder structure
 Once the repository has been clone/downloaded, you have to put your dataset in the following way.
 ```
