@@ -1,4 +1,4 @@
-# Brain-Tissue-segmentation
+# Tissue-segmentation-Brain-MRI-Images
 Segmentation of brain tissues in MRI image has a number of applications in diagnosis, surgical
 planning, and treatment of brain abnormalities. However, it is a time-consuming task to be performed
 by medical experts. In addition to that, it is challenging due to intensity overlap between the different
