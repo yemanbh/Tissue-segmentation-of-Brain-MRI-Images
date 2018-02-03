@@ -12,8 +12,18 @@ in medical image segmentation, and we have used both 2D and 3D versions. The per
 evaluated using Dice Coefficient (DSC), Hausdorff Distance (HD) and Average Volumetric Difference
 (AVD).
 
+## ReQuirements
+### Folder structure
+Once the repository has been clone/downloaded, you have to put your dataset in the following way.
+.
+├── datasets
+│   ├── Training_Set
+│   |── Validation_Set                                                                                                                    |   |__ Testing_Set   
+|    
+├── 2D
+├── 3D
 
-### Libraries
+### Libraries Used
 The code has been tested with the following configuration
 
 - h5py == 2.7.0
@@ -27,6 +37,6 @@ The code has been tested with the following configuration
 - tensorflow == 1.0.1
 - tensorflow-gpu == 1.0.1
 
-
-## How to run it
-Once all the libraries above have been installed, the following step is to run the jupyter notebook on the folder containing the iSeg2017.ipynb file. 
+## How to run 
+* Run data_handling_2d_patch.py file to create training and validation .npy files (same holds for 3D)
+* Run train_main_2d_patch.py to train your CNN.  (same holds for 3D)
