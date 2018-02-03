@@ -16,7 +16,7 @@ evaluated using Dice Coefficient (DSC), Hausdorff Distance (HD) and Average Volu
 ## ReQuirements
 ### Folder structure
 Once the repository has been clone/downloaded, you have to put your dataset in the following way.
-'''
+```
 .
 ├── datasets
 │   ├── Training_Set
@@ -24,7 +24,7 @@ Once the repository has been clone/downloaded, you have to put your dataset in t
 |    
 ├── 2D
 ├── 3D
-'''
+```
 ### Libraries Used
 The code has been tested with the following configuration
 
