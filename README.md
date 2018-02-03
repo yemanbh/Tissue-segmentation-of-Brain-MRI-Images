@@ -20,8 +20,8 @@ Once the repository has been clone/downloaded, you have to put your dataset in t
 .
 ├── datasets
 │   ├── Training_Set
-│   |── Validation_Set                                                                                                                    |   |__ Testing_Set   
-|    
+│   |── Validation_Set                                                                                                                   
+|   |── Testing_Set
 ├── 2D
 ├── 3D
 ```
