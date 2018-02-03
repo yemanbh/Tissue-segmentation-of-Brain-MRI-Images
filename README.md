@@ -3,9 +3,10 @@ Segmentation of brain tissues in MRI image has a number of applications in diagn
 planning, and treatment of brain abnormalities. However, it is a time-consuming task to be performed
 by medical experts. In addition to that, it is challenging due to intensity overlap between the different
 tissues caused by the intensity homogeneity and artifacts inherent toMRI. Tominimize this effect, it
-was proposed to apply histogram based preprocessing. The goal of this project is to develop a robust
-and automatic segmentation of WhiteMatter (WM) and GrayMatter (GM)) and Cerebrospinal Fluid
+was proposed to apply histogram based preprocessing. The goal of this project was to develop a robust
+and automatic segmentation of WhiteMatter (WM), GrayMatter (GM)) and Cerebrospinal Fluid
 (CSF) of the human brain.
+
 To tackle the problem, we have proposed Convolutional Neural Network (CNN) based approach and
 probabilistic Atlas. U-net  is one of the most commonly used and best-performing architecture
 in medical image segmentation, and we have used both 2D and 3D versions. The performance was
