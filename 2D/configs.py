@@ -1,4 +1,4 @@
-# image shape
+# image shape: this can be modified
 VOLUME_ROWS = 256
 VOLUME_COLS = 128
 VOLUME_DEPS = 256
