@@ -3,7 +3,8 @@ from __future__ import print_function
 
 # import packages
 from functools import partial
-import os, time
+import os
+import time
 import numpy as np
 from keras.models import Model
 from keras.layers import Input, concatenate, Conv2D, MaxPooling2D, Conv2DTranspose
